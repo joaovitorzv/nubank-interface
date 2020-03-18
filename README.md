@@ -1,6 +1,5 @@
 # Nubank-Interface
 Replying Nubank APP interface
 
-![Screenshot](/screenshots/home.jpeg "Main page")
-![Screenshot](/screenshots/settings.jpeg "Settings page")
+ <img src="/screenshots/home.jpeg" align="middle" width="300px"/>
  <img src="/screenshots/settings.jpeg" align="middle" width="300px"/>
