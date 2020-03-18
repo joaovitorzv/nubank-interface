@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-qrcode": "^0.2.7"
+  }
+}
