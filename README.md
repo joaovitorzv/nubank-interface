@@ -1,4 +1,7 @@
 # Nubank-Interface
+Build with React Native + Styled Components 🚀
+
+
 ## Screenshots
 
 <p float="left">
